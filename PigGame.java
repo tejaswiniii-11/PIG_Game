@@ -66,7 +66,7 @@ public class PigGame {
 	}
 
 	private void printWinMessage() {
-		System.out.println("\n🎉 Congratulations! You reached " + totalScore + " points.");
+		System.out.println("\n Congratulations! You reached " + totalScore + " points.");
 		System.out.println("You won the game in " + turnCount + " turns!");
 		System.out.println("Game Over!");
 	}
